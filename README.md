@@ -16,9 +16,6 @@ A funny Bangla JavaScript book — Fat to Fit with Akkas Mia
 
 - Preface: কেন এই বই?
 - Chapter 1: The Mirror & The Console
-- Chapter 2: Variables & Memory
-- Chapter 3: Logic & Biriyani
-- Chapter 4: Loops & Gym
 
 ---
 
